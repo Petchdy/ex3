@@ -22,7 +22,7 @@ public class Main {
                 System.out.printf("%d \n",roundsum);
                 sum = sum+roundsum;
             }
-            if(n<=0) {
+            else {
                 break;
             }
         }
